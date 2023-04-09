@@ -1,4 +1,7 @@
 -- 002 SELECT clause
+-- choose specific columns
+-- add new calculated columns
+
 USE sql_store;
 
 SELECT 
